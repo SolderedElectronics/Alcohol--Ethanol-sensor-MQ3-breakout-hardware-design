@@ -1,4 +1,4 @@
-## --- Product name --- Hardware design
+## Alcohol, Ethanol sensor MQ3 breakout Hardware design
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :----------------------------------------------------------: |
